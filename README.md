@@ -64,8 +64,7 @@
    -  [Chris Medium](https://ccris02.medium.com/)- Learn about the bigger picture of validators in Kusama.
    -  [Anaelle Github](https://anaelleltd.github.io/)- Easily guide to Polkadot network and the governance.
    -  [Learn Polkadot](https://learnpolkadot.com/)- A community hosted, curated and maintained Polkadot hub.
-   -  
-   -  
+   
  
 
 
